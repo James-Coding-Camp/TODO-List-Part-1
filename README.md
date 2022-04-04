@@ -41,4 +41,4 @@ Feel free to add any additional fields to the item object. Hold the data in the 
   - Responsiveness (mobile vs web)
 
 
-When you are done, submit the assignment and we will do a code review process where changes will be requested and you'll need to adress the feedback.
+When you are done, submit the assignment and we will do a code review process where changes will be requested and you'll need to adress the feedback. Be sure to include a readme with instructions for running the app.
