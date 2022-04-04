@@ -1,4 +1,4 @@
-# TODO List Part 1
+# TODO List Part 1: Frontend Basics
 Build a TODO list React App.
 
 To get started, create a react app with `create-react-app`, give it a fun name. This app will consist of a list of iteams that can be:
