@@ -7,6 +7,7 @@ Build a TODO list React App.
   - [React Docs](https://reactjs.org/)
   - [Airbnb React Style Guide](https://airbnb.io/javascript/react/)
   - [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
+  - [eslint](https://eslint.org/)
   - [Bootstrap Components](https://react-bootstrap.github.io/)
   - [Material UI Components](https://mui.com/)
 
